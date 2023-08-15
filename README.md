@@ -5,7 +5,7 @@
 - 👨🏻‍🔧 The real struggle is finding someone to give me a chance. Come on folks. If I could clear RHCE at age 16, I can probably pick your stack too.
 - 💞️ I’m looking to collaborate on security engineering and emerging technology projects.
 - 📫 How to reach me: Email! I always check my email. Every other hour in fact. I like my Inbox clean :D
-- 🌐 Haven't you checked out my portfolio site yet? You can find it here: [My Site](https://ninostephen.me/)
+- 🌐 Haven't you checked out my portfolio site yet? You can find it here: [ninostephen.me](https://ninostephen.me/)
 
 [![@ninostephen's Holopin board](https://holopin.me/ninostephen)](https://holopin.io/@ninostephen)
 
