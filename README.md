@@ -43,16 +43,16 @@
 ###
 
 <div align="center">
-  <a href="linktr.ee/ninostephen" target="_blank">
+  <a href="https://linktr.ee/ninostephen" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
-  <a href="twitter.com/stepenachayan" target="_blank">
+  <a href="https://twitter.com/stepenachayan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="linkedin.com/in/ninostephen" target="_blank">
+  <a href="https://linkedin.com/in/ninostephen" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="ko-fi.com/ninostephen" target="_blank">
+  <a href="https://ko-fi.com/ninostephen" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
 </div>
@@ -73,7 +73,7 @@
 <br> 💞️ Let's team up and make magic happen in the realms of security engineering and emerging tech. Together, we'll build the future! 🚀 <br> 
 <br> 🌟 On a mission to explore the unknown, both in the digital domain and beyond! 🌌 From uncovering vulnerabilities to pondering the mysteries of the cosmos, curiosity drives me forward. <br> 
 <br> 🍜 When I'm not immersed in the world of tech, you'll find me exploring new culinary delights or embarking on spontaneous adventures. Life's too short for boring routines!<br> 
-<br> 🌐 Oh, and have you checked out my portfolio site yet? It's like a treasure trove of my adventures in cyberspace. Dive in here: <a href="ninostephen.me">ninostephen.me </a> <br> 
+<br> 🌐 Oh, and have you checked out my portfolio site yet? It's like a treasure trove of my adventures in cyberspace. Dive in here: <a href="https://ninostephen.me">ninostephen.me </a> <br> 
 </p>
 
 ###
