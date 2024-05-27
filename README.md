@@ -66,15 +66,14 @@
 ###
 
 <p align="left">👀 Currently, I'm donning the hat of a security engineer. 🕵️‍♂️ But hey, I'm not just watching; I'm securing! <br>
-  <br>🌱 When I'm not fortifying digital defenses, you'll find me tinkering away on personal projects in my secret lair of private repos. 🛠️ Shhh, it's all highly classified stuff! <br>
-  <br>😶‍🌫️ Ever heard of someone who's open to experimenting with everything? Well, that's me! From stable to alpha to "hold my coffee, this might crash" projects, I'm game! 🔬 Send 'em my way! <br>
-  <br>👨🏻‍🔧 Think business challenges are tough? Pfft, piece of cake! 🍰 I cleared RHCE at age 16, so bring it on! 💪 <br>
-  <br>💞️ Let's team up and make magic happen in the realms of security engineering and emerging tech. Together, we'll build the future! 🚀 <br>
-  <br>🌐 Oh, and have you checked out my portfolio site yet? It's like a treasure trove of my adventures in cyberspace. Dive in here: <a href="ninostephen.me" target="_blank">ninostephen.me</a><br>
-  <br>🚀 When I'm not busy safeguarding digital realms or crafting code, you might catch me homelabbing like there's no tomorrow! 🔬 My lab is where ideas come to life and innovation knows no bounds. <br>
-  <br>🤖 I live and breathe open source. 💻 Contributions? Check. Advocacy? Double check. If it's open, it's got my attention! <br>
-  <br>🌟 On a mission to explore the unknown, both in the digital domain and beyond! 🌌 From uncovering vulnerabilities to pondering the mysteries of the cosmos, curiosity drives me forward. <br>
-  <br>🍜 When I'm not immersed in the world of tech, you'll find me exploring new culinary delights or embarking on spontaneous adventures. Life's too short for boring routines!
+<br> 🌱 When I'm not fortifying digital defences, you'll find me tinkering away on personal projects in my secret lair of private repos. 🛠️ Shhh, it's all highly classified stuff! <br> 
+<br> 🚀 When I'm not busy safeguarding digital realms or crafting code, you might catch me homelabbing like there's no tomorrow! 🔬 My lab is where ideas come to life and innovation knows no bounds. <br> 
+<br> 😶‍🌫️ Ever heard of someone open to experimenting with everything? Well, that's me! From stable to alpha to "hold my coffee, this might crash" projects, I'm game! 🔬 Send 'em my way! <br> 
+<br> 🤖 I live and breathe open source. 💻 Contributions? Check. Advocacy? Double check. If it's open, it's got my attention! <br> 
+<br> 💞️ Let's team up and make magic happen in the realms of security engineering and emerging tech. Together, we'll build the future! 🚀 <br> 
+<br> 🌟 On a mission to explore the unknown, both in the digital domain and beyond! 🌌 From uncovering vulnerabilities to pondering the mysteries of the cosmos, curiosity drives me forward. <br> 
+<br> 🍜 When I'm not immersed in the world of tech, you'll find me exploring new culinary delights or embarking on spontaneous adventures. Life's too short for boring routines!<br> 
+<br> 🌐 Oh, and have you checked out my portfolio site yet? It's like a treasure trove of my adventures in cyberspace. Dive in here: <a href="ninostephen.me">ninostephen.me </a> <br> 
 </p>
 
 ###
