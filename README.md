@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nino Stephen and I'm a Tinkerer from Kerala</h2>
-
-###
-
-<img align="left" height="150" src="https://www.ninostephen.me/_next/image?url=%2Fstatic%2Fimages%2Favatar.jpeg&w=256&q=75"  />
+<h2 align="center">Hi 👋! My name is Nino Stephen and I'm a Tinkerer</h2>
 
 ###
 
@@ -74,7 +70,6 @@
   <br>😶‍🌫️ Ever heard of someone who's open to experimenting with everything? Well, that's me! From stable to alpha to "hold my coffee, this might crash" projects, I'm game! 🔬 Send 'em my way! <br>
   <br>👨🏻‍🔧 Think business challenges are tough? Pfft, piece of cake! 🍰 I cleared RHCE at age 16, so bring it on! 💪 <br>
   <br>💞️ Let's team up and make magic happen in the realms of security engineering and emerging tech. Together, we'll build the future! 🚀 <br>
-  <br>📫 Wanna chat? Shoot me an email! 📧 I'm practically glued to my inbox, keeping it spick and span. 🧹 <br>
   <br>🌐 Oh, and have you checked out my portfolio site yet? It's like a treasure trove of my adventures in cyberspace. Dive in here: <a href="ninostephen.me" target="_blank">ninostephen.me</a><br>
   <br>🚀 When I'm not busy safeguarding digital realms or crafting code, you might catch me homelabbing like there's no tomorrow! 🔬 My lab is where ideas come to life and innovation knows no bounds. <br>
   <br>🤖 I live and breathe open source. 💻 Contributions? Check. Advocacy? Double check. If it's open, it's got my attention! <br>
